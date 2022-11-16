@@ -1,5 +1,7 @@
+import SimpleForm from "../forms/SimpleForm";
+
 const StreamList = () => {
-  return <div>StreamList</div>;
+  return <SimpleForm />;
 };
 
 export default StreamList;
